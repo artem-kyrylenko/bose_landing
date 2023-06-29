@@ -1,4 +1,4 @@
-# Landing page for a store that sells speakers
+# Landing page for a store that sells speakers and headphones
 
 The landing page was created using HTML, SCSS, BEM, and JS.
 
